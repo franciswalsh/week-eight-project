@@ -1,0 +1,30 @@
+{
+  "name": "week-eight-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciswalsh/week-eight-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciswalsh/week-eight-project/issues"
+  },
+  "homepage": "https://github.com/franciswalsh/week-eight-project#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.1",
+    "mocha": "^3.4.2",
+    "mustache-express": "^1.2.5",
+    "pg": "^6.4.1",
+    "sequelize": "^4.3.2"
+  }
+}

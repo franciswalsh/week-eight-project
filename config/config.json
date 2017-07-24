@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "franciswalsh",
+    "password": null,
+    "database": "codeSnippet",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "franciswalsh",
+    "password": null,
+    "database": "codeSnippet",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "franciswalsh",
+    "password": null,
+    "database": "codeSnippet",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
